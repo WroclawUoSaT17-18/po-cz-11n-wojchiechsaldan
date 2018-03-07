@@ -13,7 +13,7 @@ namespace ConsoleApp8
             Console.WriteLine("podaj 3 oceny i zatwierdz kazda przyciskiem enter");
             float q = float.Parse(Console.ReadLine());
             Console.Clear;
-            float w = float.Parse(Console.ReadLine());
+            float w = float.Parse(Console.ReadLine());//fff
             float e = float.Parse(Console.ReadLine());
             student xxx = new student(q, w, e);
             Console.WriteLine(xxx.Sriednia());
