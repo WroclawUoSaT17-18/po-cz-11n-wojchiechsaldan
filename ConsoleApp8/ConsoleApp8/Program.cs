@@ -46,3 +46,6 @@ class student
         return ((a + b + c) / 3);
     }
 }
+
+
+/// okej
