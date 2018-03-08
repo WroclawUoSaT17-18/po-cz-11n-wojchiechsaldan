@@ -10,12 +10,16 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("podaj 3 oceny i zatwierdz kazda przyciskiem enter");
+            Console.WriteLine("podaj nr ideksu");
+            int r = int.Parse(Console.ReadLine());
+            Console.WriteLine("podaj ocenę z WOS");
             float q = float.Parse(Console.ReadLine());
             ///Console.Clear;
+            Console.WriteLine("podaj ocene MAT");
             float w = float.Parse(Console.ReadLine());
-            float e = float.Parse(Console.ReadLine());
-            student xxx = new student(q, w, e);
+            Console.WriteLine("podaj ocenę HIS");
+            float j = float.Parse(Console.ReadLine());
+            student xxx = new student(j, q, w, r);
             Console.WriteLine(xxx.Sriednia());
             Console.ReadKey();
         }
@@ -26,12 +30,15 @@ class student
     public float a;
     public float b;
     public float c;
+    public int d;
 
-    public student(float ocena1, float ocena2, float ocena3)
+    public student(float WOS, float MAT, float HIS, int indeks)
     {
-        a = ocena1;
-        b = ocena2;
-        c = ocena3;
+        a = WOS;
+        b = MAT;
+        c = HIS;
+        d = indeks;
+
     }
     public float Sriednia()
     {
