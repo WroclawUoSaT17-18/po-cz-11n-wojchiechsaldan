@@ -1,0 +1,8 @@
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\bin\Debug\ProjectTests1.dll
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\bin\Debug\ProjectTests1.pdb
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\obj\Debug\ProjectTests1.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\obj\Debug\ProjectTests1.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\obj\Debug\ProjectTests1.dll
+C:\Users\Wojtek\Desktop\Project\ProjectTests1\obj\Debug\ProjectTests1.pdb
