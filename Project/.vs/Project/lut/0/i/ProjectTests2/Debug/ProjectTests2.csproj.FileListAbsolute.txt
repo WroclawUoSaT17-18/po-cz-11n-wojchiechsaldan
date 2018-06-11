@@ -1,0 +1,7 @@
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\b\ProjectTests2.dll
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\b\ProjectTests2.pdb
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests2\Debug\ProjectTests2.csproj.CoreCompileInputs.cache
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests2\Debug\ProjectTests2.csproj.CopyComplete
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests2\Debug\ProjectTests2.dll
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests2\Debug\ProjectTests2.pdb
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests2\Debug\ProjectTests2.csprojResolveAssemblyReference.cache

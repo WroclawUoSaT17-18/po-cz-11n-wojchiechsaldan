@@ -1,0 +1,6 @@
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\b\ProjectTests1\bin\Debug\ProjectTests1.dll
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\b\ProjectTests1\bin\Debug\ProjectTests1.pdb
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests1\Debug\ProjectTests1.csproj.CoreCompileInputs.cache
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests1\Debug\ProjectTests1.csproj.CopyComplete
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests1\Debug\ProjectTests1.dll
+C:\Users\Ezojil\Desktop\po-cz-11n-wojchiechsaldan-master\Project\.vs\Project\lut\0\i\ProjectTests1\Debug\ProjectTests1.pdb
